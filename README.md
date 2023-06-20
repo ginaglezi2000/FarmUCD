@@ -1,7 +1,7 @@
 ### SARS-CoV-2 project
 Will need to align sets of viruses against reference virus (such as Wuhan)
-+ Initially protein level for only one protein (sucha as S ~1200 aa)
-Workflow: 
++ Initially protein level for only one protein (such as S ~1200 aa)  
+Workflow:   
 GISAID/NEXTSTRAIN > dataset > sampling > msa > PHMM
 
 ### Computer vision
@@ -10,6 +10,6 @@ GISAID/NEXTSTRAIN > dataset > sampling > msa > PHMM
 
 ### Image segmentation 
 + Mask RCNN: transfer learning
-+ Need of GPU
-Wrokflow: 
++ Need of GPU  
+Workflow:  
 Images > CV for preliminary automated  annotation > Human > MRCNN
