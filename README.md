@@ -13,3 +13,7 @@ GISAID/NEXTSTRAIN > dataset > sampling > msa > PHMM
 + Need of GPU  
 Workflow:  
 Images > CV for preliminary automated  annotation > Human > MRCNN
+
+### Molecular Dynamics
++ Yasara
++ GROMACS?
