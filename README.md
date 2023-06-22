@@ -17,3 +17,6 @@ Images > CV for preliminary automated  annotation > Human > MRCNN
 ### Molecular Dynamics
 + Yasara
 + GROMACS?
+
+## Installation
+```conda env create -n simple -f environment.yml```
