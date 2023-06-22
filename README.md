@@ -20,3 +20,6 @@ Images > CV for preliminary automated  annotation > Human > MRCNN
 
 ## Installation
 ```conda env create -n simple -f environment.yml```
+
+## Usage
+```FarmUCD$ scripts/myscript.py Gina```
